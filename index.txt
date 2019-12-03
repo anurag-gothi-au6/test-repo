@@ -1,2 +1,2 @@
 author name : anurag gothi
-email : ianuraggothi@gmail.com
+skills : react JS. Node JS
